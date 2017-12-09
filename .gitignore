@@ -1,0 +1,9 @@
+# data
+*.npz
+
+# Compiled python
+*.pyc
+
+# IPython notebook checkpoints
+*/.ipynb_checkpoints
+
