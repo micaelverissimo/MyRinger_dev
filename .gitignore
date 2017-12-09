@@ -5,7 +5,8 @@
 *.pyc
 
 # IPython notebook checkpoints
-*/.ipynb_checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
 
 # txt files
 *.txt
