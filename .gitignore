@@ -7,3 +7,5 @@
 # IPython notebook checkpoints
 */.ipynb_checkpoints
 
+# txt files
+*.txt
