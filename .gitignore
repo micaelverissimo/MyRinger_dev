@@ -10,3 +10,8 @@
 
 # txt files
 *.txt
+
+# plots
+*.pdf
+*.png
+
