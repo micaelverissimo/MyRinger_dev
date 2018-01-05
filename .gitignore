@@ -10,6 +10,7 @@
 
 # txt files
 *.txt
+*.dat
 
 # plots
 *.pdf
